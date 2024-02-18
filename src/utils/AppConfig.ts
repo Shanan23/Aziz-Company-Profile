@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Azis Fauzi Fajrian',
-  title: 'Azis Company',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  site_name: 'Azis Machinery Masters',
+  title: 'Azis Machinery Masters',
+  description: 'Kuatkan Fondasi Kesuksesan Proyek Anda Bersama Kami',
   locale: 'id',
 };
