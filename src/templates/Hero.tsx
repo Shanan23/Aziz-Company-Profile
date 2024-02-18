@@ -10,7 +10,9 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://wa.me/6281316161005">Contact Us</Link>
+          <Link href="https://wa.me/6281316161005" target="_blank">
+            Contact Us
+          </Link>
         </li>
       </NavbarTwoColumns>
     </Section>
