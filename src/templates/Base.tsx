@@ -1,3 +1,5 @@
+import { SpeedInsights } from '@vercel/speed-insights/next';
+
 import { Meta } from '../layout/Meta';
 import { AppConfig } from '../utils/AppConfig';
 import { Banner } from './Banner';
@@ -14,6 +16,7 @@ const Base = () => (
     <Sponsors />
     <Banner />
     <Footer />
+    <SpeedInsights />
   </div>
 );
 
