@@ -10,7 +10,10 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://wa.me/6281316161005" target="_blank">
+          <Link
+            href="https://api.whatsapp.com/send?phone=6281316161005&text=Halo%20Bang%20Azis,%20Saya%20mau%20tanya%20nih"
+            target="_blank"
+          >
             Contact Us
           </Link>
         </li>
@@ -18,13 +21,13 @@ const Hero = () => (
     </Section>
 
     <Section yPadding="pt-20 pb-32">
-      <div className="max-w-4xl mx-auto text-center">
-        <h1 className="text-4xl sm:text-5xl font-bold leading-tight text-gray-900 mb-4">
+      <div className="mx-auto max-w-4xl text-center">
+        <h1 className="mb-4 text-4xl font-bold leading-tight text-gray-900 sm:text-5xl">
           Selamat Datang di {''}
           <span className="text-primary-500">Azis Machinery Masters</span>
           {''} Solusi Alat Berat Profesional untuk Proyek Anda
         </h1>
-        <p className="text-xl text-gray-700 mb-8">
+        <p className="mb-8 text-xl text-gray-700">
           Kuatkan Fondasi Kesuksesan Proyek Anda Bersama Kami
         </p>
       </div>
