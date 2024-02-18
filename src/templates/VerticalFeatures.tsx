@@ -3,7 +3,7 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
+    title=""
     description="Selamat datang, mitra terpercaya Anda dalam menyediakan solusi alat berat yang handal untuk proyek konstruksi, pertambangan, industri, dan berbagai kebutuhan lainnya. Kami adalah pilihan utama bagi para profesional yang mengutamakan kualitas, efisiensi, dan keandalan dalam setiap tugas mereka.
 
     Dengan komitmen kami untuk memberikan layanan terbaik, kami menawarkan beragam alat berat yang lengkap dan terbaru, mulai dari ekskavator, buldoser, loader, crane, hingga truk pengangkut dan peralatan lainnya. Setiap unit alat berat kami dijaga dengan ketat untuk kinerja optimal, serta dirawat secara berkala oleh tim teknisi ahli kami untuk memastikan bahwa mereka selalu siap digunakan dalam kondisi terbaik.
