@@ -4,7 +4,15 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    description="Selamat datang, mitra terpercaya Anda dalam menyediakan solusi alat berat yang handal untuk proyek konstruksi, pertambangan, industri, dan berbagai kebutuhan lainnya. Kami adalah pilihan utama bagi para profesional yang mengutamakan kualitas, efisiensi, dan keandalan dalam setiap tugas mereka.
+
+    Dengan komitmen kami untuk memberikan layanan terbaik, kami menawarkan beragam alat berat yang lengkap dan terbaru, mulai dari ekskavator, buldoser, loader, crane, hingga truk pengangkut dan peralatan lainnya. Setiap unit alat berat kami dijaga dengan ketat untuk kinerja optimal, serta dirawat secara berkala oleh tim teknisi ahli kami untuk memastikan bahwa mereka selalu siap digunakan dalam kondisi terbaik.
+    
+    Keunggulan kami tidak hanya terletak pada ketersediaan alat berat yang beragam, tetapi juga pada komitmen kami untuk memberikan layanan pelanggan yang unggul. Tim profesional kami selalu siap membantu Anda dalam memilih alat berat yang tepat sesuai dengan kebutuhan proyek Anda, serta memberikan dukungan teknis yang diperlukan sepanjang masa sewa.
+    
+    Kami memahami bahwa setiap proyek memiliki kebutuhan yang berbeda-beda. Oleh karena itu, kami menyediakan opsi sewa yang fleksibel, mulai dari sewa harian, mingguan, hingga kontrak jangka panjang, untuk memastikan bahwa Anda dapat mengakses alat berat yang Anda butuhkan dengan mudah dan efisien.
+    
+    Dengan Kami, Anda dapat mempercayakan kebutuhan alat berat Anda kepada partner yang dapat diandalkan, efisien, dan profesional. Hubungi kami hari ini untuk konsultasi lebih lanjut dan temukan bagaimana kami dapat membantu mewujudkan kesuksesan proyek Anda."
   >
     <VerticalFeatureRow
       title="DISC PLOW 2x22"
